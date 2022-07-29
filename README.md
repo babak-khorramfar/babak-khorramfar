@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babak-khorramfar
-- 👀 I’m interested in Wordpress , php , html , css and ReactJS
+- 👀 I’m interested in Wordpress , php , html , css , Angular and Ionic
 - 🌱 I’m currently learning php and js
 - 💞️ I’m looking to collaborate on wordpress develop
 - 📫 Contact me on telegram with @WebSchoool
